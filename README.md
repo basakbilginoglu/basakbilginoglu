@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Başak</h1>
 <h3 align="center">A passionate frontend developer, backend developer</h3>
 
-- 🌱 I’m currently learning **Javascript, React, Java, .Net**
+- 🌱 I’m currently learning **kotlin,Swift, Java, .Net**
 
 - 📫 How to reach me **basakbilginoglu@gmail.com**
 
