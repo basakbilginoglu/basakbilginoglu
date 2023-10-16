@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Başak</h1>
 <h3 align="center">A passionate mobile developer, backend developer</h3>
 
-- 🌱 I’m currently learning **Kotlin,Swift, Java, .Net**
+- 🌱 I’m currently learning **Kotlin,Swift, Java,C#,.Net**
 
 - 📫 How to reach me **basakbilginoglu@gmail.com**
 
