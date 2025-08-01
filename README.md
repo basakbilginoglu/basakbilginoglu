@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Başak</h1>
 <h3 align="center">A passionate about AI and software development</h3>
 
-- 🌱 I’m currently learning **Next.js,React.js,Python,javascript,java **
+- 🌱 I’m currently learning **Next.js,React.js,Python,javascript,java 
 
 - 📫 How to reach me **basakbilginoglu@gmail.com**
 
