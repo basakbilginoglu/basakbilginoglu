@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Başak</h1>
-<h3 align="center">A passionate about being mobile developer, frontend developer</h3>
+<h3 align="center">A passionate about AI frontend development</h3>
 
-- 🌱 I’m currently learning **Kotlin,Java,javascript**
+- 🌱 I’m currently learning **Next.js,React.js,Python,javascript**
 
 - 📫 How to reach me **basakbilginoglu@gmail.com**
 
