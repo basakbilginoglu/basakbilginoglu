@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm Basak
 
 ## 🚀 About Me
 I’m a **Frontend Developer** & **AI/Data Science Enthusiast** passionate about building **interactive web applications** and leveraging **AI-driven insights** to solve real-world problems.  
